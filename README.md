@@ -103,3 +103,8 @@ My parts:
 - dimensionality reduction with Truncated SVD and the scree-plot analysis
 - the time-based train/test split
 - the final resubmission of the assignment
+
+## Related projects
+
+- [Natural-Scene-Image-Classification-CNN-vs-Classical-ML](https://github.com/EbrahimShirjazi/Natural-Scene-Image-Classification-CNN-vs-Classical-ML): CNN vs. classical ML for classifying natural scene photos
+- [Multivariate-Retail-Demand-Forecasting](https://github.com/EbrahimShirjazi/Multivariate-Retail-Demand-Forecasting): forecasting daily sales with time-series features, ensembles and transfer learning
