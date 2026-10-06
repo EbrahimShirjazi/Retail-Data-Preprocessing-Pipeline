@@ -1,0 +1,8 @@
+# Dataset and generated files (download data from Kaggle, see README)
+data/
+*.csv
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
